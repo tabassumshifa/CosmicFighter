@@ -12,7 +12,6 @@ The project demonstrates real-time rendering, animation, and game mechanics usin
 - 💥 Bullet shooting mechanics  
 - 🎯 Collision detection system  
 - 🌌 Animated space background  
-- ☀️ Day/Night mode toggle  
 - 🛡️ Shield activation power-up  
 - ⚡ Smooth real-time rendering using OpenGL  
 
