@@ -43,4 +43,6 @@ The project demonstrates real-time rendering, animation, and game mechanics usin
 
 ### Linux / Mac
 ```bash
+clang++ main.cpp -framework OpenGL -framework GLUT -o rect
+./rect
 
