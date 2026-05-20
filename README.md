@@ -24,11 +24,10 @@ The project demonstrates real-time rendering, animation, and game mechanics usin
 ![Menu](Menu.png)
 
 ### Level 3 Gameplay
-![Level 3](level3.png)
+![Level 3](Level3.png)
 
-### Shield Activation Effect
+### Shield Activation
 ![Shield](shield.png)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -44,5 +43,4 @@ The project demonstrates real-time rendering, animation, and game mechanics usin
 
 ### Linux / Mac
 ```bash
-g++ main.cpp -o game -lGL -lGLU -lglut
-./game
+
